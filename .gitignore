@@ -1,0 +1,8 @@
+.idea/
+node_modules/
+vendor/
+bin/
+*.tmp
+.env.local
+.DS_Store
+*.log
